@@ -31,7 +31,7 @@ title.TextSize = 24
 
 -- Input
 local textbox = Instance.new("TextBox", frame)
-textbox.PlaceholderText = "Enter Key (e.g. reb_LX)"
+textbox.PlaceholderText = "Enter Key (e.g (**)"
 textbox.Size = UDim2.new(0.8, 0, 0, 40)
 textbox.Position = UDim2.new(0.1, 0, 0, 60)
 textbox.Text = ""
